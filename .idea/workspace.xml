@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="Merge remote-tracking branch 'refs/remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="Merge remote-tracking branch 'refs/remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/10_weather_forecast_pt_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/1_trapeziod_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/2_triangle_area.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/3_celsius_to_fahrenheit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/4_vegetable_market.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/5_training_lab.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/6_fishland.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/7_house_painting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/8_circle_area_and_perimeter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/9_weather_forecast_pt_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,43 +60,53 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Python.1_excellent_result.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_greater_number.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2_radians_to_degrees.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_deposit_calculator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3_even_or_odd.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_password_guess.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4_vacation_books_list.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_number_from_100_to_200.executor&quot;: &quot;Run&quot;,
-    &quot;Python.5_supplies_for_school.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6_repainting.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6_speed_info.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_area_of_figures.executor&quot;: &quot;Run&quot;,
-    &quot;Python.7_food_delivery.executor&quot;: &quot;Run&quot;,
-    &quot;Python.8_basketball_equipment.executor&quot;: &quot;Run&quot;,
-    &quot;Python.9_fish_tank.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10_weather_forecast_pt_2.executor": "Run",
+    "Python.1_excellent_result.executor": "Run",
+    "Python.1_trapeziod_area.executor": "Run",
+    "Python.2_greater_number.executor": "Run",
+    "Python.2_radians_to_degrees.executor": "Run",
+    "Python.2_triangle_area.executor": "Run",
+    "Python.3_celsius_to_fahrenheit.executor": "Run",
+    "Python.3_deposit_calculator.executor": "Run",
+    "Python.3_even_or_odd.executor": "Run",
+    "Python.4_password_guess.executor": "Run",
+    "Python.4_vacation_books_list.executor": "Run",
+    "Python.4_vegetable_market.executor": "Run",
+    "Python.5_number_from_100_to_200.executor": "Run",
+    "Python.5_supplies_for_school.executor": "Run",
+    "Python.5_training_lab.executor": "Run",
+    "Python.6_fishland.executor": "Run",
+    "Python.6_repainting.executor": "Run",
+    "Python.6_speed_info.executor": "Run",
+    "Python.7_area_of_figures.executor": "Run",
+    "Python.7_food_delivery.executor": "Run",
+    "Python.7_house_painting.executor": "Run",
+    "Python.8_basketball_equipment.executor": "Run",
+    "Python.8_circle_area_and_perimeter.executor": "Run",
+    "Python.9_fish_tank.executor": "Run",
+    "Python.9_weather_forecast_pt_1.executor": "Run",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -103,6 +125,8 @@
       <workItem from="1768766231541" duration="3166000" />
       <workItem from="1768775733379" duration="178000" />
       <workItem from="1768817325498" duration="18181000" />
+      <workItem from="1769596930235" duration="6690000" />
+      <workItem from="1769701072921" duration="4082000" />
     </task>
     <task id="LOCAL-00001" summary="First_Steps_In_Programming_Basics_With_Python &amp;&amp; First_Steps_In_Practice_[Practice]">
       <option name="closed" value="true" />
@@ -136,7 +160,15 @@
       <option name="project" value="LOCAL" />
       <updated>1768857113114</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'refs/remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <option name="closed" value="true" />
+      <created>1769596986858</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1769596986858</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,19 +196,29 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'refs/remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$1_trapeziod_area.coverage" NAME="1_trapeziod_area Coverage Results" MODIFIED="1769597806291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$6_speed_info.coverage" NAME="6_speed_info Coverage Results" MODIFIED="1768850317915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
-    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$5_supplies_for_school.coverage" NAME="5_supplies_for_school Coverage Results" MODIFIED="1768819773009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
-    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$7_food_delivery.coverage" NAME="7_food_delivery Coverage Results" MODIFIED="1768824139768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$6_fishland.coverage" NAME="6_fishland Coverage Results" MODIFIED="1769605231894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$3_even_or_odd.coverage" NAME="3_even_or_odd Coverage Results" MODIFIED="1768844076922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$9_fish_tank.coverage" NAME="9_fish_tank Coverage Results" MODIFIED="1768829620128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$4_password_guess.coverage" NAME="4_password_guess Coverage Results" MODIFIED="1768849270683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$5_number_from_100_to_200.coverage" NAME="5_number_from_100_to_200 Coverage Results" MODIFIED="1768849520689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$10_weather_forecast_pt_2.coverage" NAME="10_weather_forecast_pt_2 Coverage Results" MODIFIED="1769710040924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$2_radians_to_degrees.coverage" NAME="2_radians_to_degrees Coverage Results" MODIFIED="1768766375199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$5_supplies_for_school.coverage" NAME="5_supplies_for_school Coverage Results" MODIFIED="1768819773009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$3_celsius_to_fahrenheit.coverage" NAME="3_celsius_to_fahrenheit Coverage Results" MODIFIED="1769598227205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$9_weather_forecast_pt_1.coverage" NAME="9_weather_forecast_pt_1 Coverage Results" MODIFIED="1769709695389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$7_food_delivery.coverage" NAME="7_food_delivery Coverage Results" MODIFIED="1768824139768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$2_triangle_area.coverage" NAME="2_triangle_area Coverage Results" MODIFIED="1769598017953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$8_circle_area_and_perimeter.coverage" NAME="8_circle_area_and_perimeter Coverage Results" MODIFIED="1769709298944" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$4_vacation_books_list.coverage" NAME="4_vacation_books_list Coverage Results" MODIFIED="1768775905566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$2_greater_number.coverage" NAME="2_greater_number Coverage Results" MODIFIED="1768843725602" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$6_repainting.coverage" NAME="6_repainting Coverage Results" MODIFIED="1768822239768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$8_basketball_equipment.coverage" NAME="8_basketball_equipment Coverage Results" MODIFIED="1768826056098" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$7_house_painting.coverage" NAME="7_house_painting Coverage Results" MODIFIED="1769708505315" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$1_excellent_result.coverage" NAME="1_excellent_result Coverage Results" MODIFIED="1768843435096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
-    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$5_number_from_100_to_200.coverage" NAME="5_number_from_100_to_200 Coverage Results" MODIFIED="1768849520689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
-    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$2_radians_to_degrees.coverage" NAME="2_radians_to_degrees Coverage Results" MODIFIED="1768766375199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$5_training_lab.coverage" NAME="5_training_lab Coverage Results" MODIFIED="1769603687854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$4_vegetable_market.coverage" NAME="4_vegetable_market Coverage Results" MODIFIED="1769601894026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$3_deposit_calculator.coverage" NAME="3_deposit_calculator Coverage Results" MODIFIED="1768767992756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$7_area_of_figures.coverage" NAME="7_area_of_figures Coverage Results" MODIFIED="1768852615845" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
   </component>
