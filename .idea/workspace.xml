@@ -4,17 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="Merge remote-tracking branch 'refs/remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/10_weather_forecast_pt_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/1_trapeziod_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/2_triangle_area.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/3_celsius_to_fahrenheit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/4_vegetable_market.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/5_training_lab.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/6_fishland.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/7_house_painting.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/8_circle_area_and_perimeter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/9_weather_forecast_pt_1.py" afterDir="false" />
+    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="First_Steps_In_Programming_[More_Exercises]">
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/1_sum_seconds.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/2_bonus_score.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/3_time_plus_15_minutes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/4_toy_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/5_godzilla_vs_kong.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/6_world_swimming_record.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/7_shopping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/8_lunch_break.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -65,27 +63,35 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.10_weather_forecast_pt_2.executor": "Run",
     "Python.1_excellent_result.executor": "Run",
+    "Python.1_sum_seconds.executor": "Run",
     "Python.1_trapeziod_area.executor": "Run",
+    "Python.2_bonus_score.executor": "Run",
     "Python.2_greater_number.executor": "Run",
     "Python.2_radians_to_degrees.executor": "Run",
     "Python.2_triangle_area.executor": "Run",
     "Python.3_celsius_to_fahrenheit.executor": "Run",
     "Python.3_deposit_calculator.executor": "Run",
     "Python.3_even_or_odd.executor": "Run",
+    "Python.3_time_plus_15_minutes.executor": "Run",
     "Python.4_password_guess.executor": "Run",
+    "Python.4_toy_shop.executor": "Run",
     "Python.4_vacation_books_list.executor": "Run",
     "Python.4_vegetable_market.executor": "Run",
+    "Python.5_godzilla_vs_kong.executor": "Run",
     "Python.5_number_from_100_to_200.executor": "Run",
     "Python.5_supplies_for_school.executor": "Run",
     "Python.5_training_lab.executor": "Run",
     "Python.6_fishland.executor": "Run",
     "Python.6_repainting.executor": "Run",
     "Python.6_speed_info.executor": "Run",
+    "Python.6_world_swimming_record.executor": "Run",
     "Python.7_area_of_figures.executor": "Run",
     "Python.7_food_delivery.executor": "Run",
     "Python.7_house_painting.executor": "Run",
+    "Python.7_shopping.executor": "Run",
     "Python.8_basketball_equipment.executor": "Run",
     "Python.8_circle_area_and_perimeter.executor": "Run",
+    "Python.8_lunch_break.executor": "Run",
     "Python.9_fish_tank.executor": "Run",
     "Python.9_weather_forecast_pt_1.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
@@ -110,8 +116,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.29346.308" />
-        <option value="bundled-python-sdk-ca5e2b39c7df-6e1f45a539f7-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.29346.308" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
       </set>
     </attachedChunks>
   </component>
@@ -126,7 +131,12 @@
       <workItem from="1768775733379" duration="178000" />
       <workItem from="1768817325498" duration="18181000" />
       <workItem from="1769596930235" duration="6690000" />
-      <workItem from="1769701072921" duration="4082000" />
+      <workItem from="1769701072921" duration="11924000" />
+      <workItem from="1769723614635" duration="27000" />
+      <workItem from="1770665239937" duration="1656000" />
+      <workItem from="1770667818443" duration="4705000" />
+      <workItem from="1770711912822" duration="1791000" />
+      <workItem from="1770795099753" duration="15000" />
     </task>
     <task id="LOCAL-00001" summary="First_Steps_In_Programming_Basics_With_Python &amp;&amp; First_Steps_In_Practice_[Practice]">
       <option name="closed" value="true" />
@@ -168,7 +178,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769596986858</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="First_Steps_In_Programming_[More_Exercises]">
+      <option name="closed" value="true" />
+      <created>1769710810017</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1769710810017</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,18 +211,25 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First_Steps_In_Programming_Basics_With_Python &amp;&amp; First_Steps_In_Practice_[Practice]" />
     <MESSAGE value="Merge remote-tracking branch 'refs/remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'refs/remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="First_Steps_In_Programming_[More_Exercises]" />
+    <option name="LAST_COMMIT_MESSAGE" value="First_Steps_In_Programming_[More_Exercises]" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$1_trapeziod_area.coverage" NAME="1_trapeziod_area Coverage Results" MODIFIED="1769597806291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
-    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$6_speed_info.coverage" NAME="6_speed_info Coverage Results" MODIFIED="1768850317915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$3_time_plus_15_minutes.coverage" NAME="3_time_plus_15_minutes Coverage Results" MODIFIED="1769721286833" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$6_fishland.coverage" NAME="6_fishland Coverage Results" MODIFIED="1769605231894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$6_speed_info.coverage" NAME="6_speed_info Coverage Results" MODIFIED="1768850317915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$3_even_or_odd.coverage" NAME="3_even_or_odd Coverage Results" MODIFIED="1768844076922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$9_fish_tank.coverage" NAME="9_fish_tank Coverage Results" MODIFIED="1768829620128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$4_password_guess.coverage" NAME="4_password_guess Coverage Results" MODIFIED="1768849270683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$2_bonus_score.coverage" NAME="2_bonus_score Coverage Results" MODIFIED="1769719053009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$5_number_from_100_to_200.coverage" NAME="5_number_from_100_to_200 Coverage Results" MODIFIED="1768849520689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$5_godzilla_vs_kong.coverage" NAME="5_godzilla_vs_kong Coverage Results" MODIFIED="1770672311779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$10_weather_forecast_pt_2.coverage" NAME="10_weather_forecast_pt_2 Coverage Results" MODIFIED="1769710040924" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$4_toy_shop.coverage" NAME="4_toy_shop Coverage Results" MODIFIED="1770669699217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$2_radians_to_degrees.coverage" NAME="2_radians_to_degrees Coverage Results" MODIFIED="1768766375199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$1_sum_seconds.coverage" NAME="1_sum_seconds Coverage Results" MODIFIED="1769715118711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]" />
+    <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$6_world_swimming_record.coverage" NAME="6_world_swimming_record Coverage Results" MODIFIED="1770713054671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$5_supplies_for_school.coverage" NAME="5_supplies_for_school Coverage Results" MODIFIED="1768819773009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$3_celsius_to_fahrenheit.coverage" NAME="3_celsius_to_fahrenheit Coverage Results" MODIFIED="1769598227205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$9_weather_forecast_pt_1.coverage" NAME="9_weather_forecast_pt_1 Coverage Results" MODIFIED="1769709695389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
