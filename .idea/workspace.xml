@@ -4,21 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="First_Steps_In_Programming_[More_Exercises]">
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/1_sum_seconds.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/2_bonus_score.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/3_time_plus_15_minutes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/4_toy_shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/5_godzilla_vs_kong.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/6_world_swimming_record.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/7_shopping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/8_lunch_break.py" afterDir="false" />
+    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="Conditional_Statements_Practice_[Practice]">
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/1_pipes_in_pool.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/2_sleepy_tom_cat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/3_harvest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/4_transport_price.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/5_pets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/6_flower_shop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/7_fuel_tank_part_1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/8_fuel_tank_part_2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/2_bonus_score.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/2_bonus_score.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/7_shopping.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_Practice_[Practice]/7_shopping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]/8_basketball_equipment.py" beforeDir="false" afterPath="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]/8_basketball_equipment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]/9_fish_tank.py" beforeDir="false" afterPath="$PROJECT_DIR$/First_Steps_In_Practice_[Practice]/9_fish_tank.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Steps_In_Programming_Basics_With_Python/9_yard_greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/First_Steps_In_Programming_Basics_With_Python/9_yard_greeting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/6_fishland.py" beforeDir="false" afterPath="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]/6_fishland.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="EmbeddingIndexingInfo">
+    <option name="cachedIndexableFilesCount" value="60" />
+    <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -63,34 +73,42 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.10_weather_forecast_pt_2.executor": "Run",
     "Python.1_excellent_result.executor": "Run",
+    "Python.1_pipes_in_pool.executor": "Run",
     "Python.1_sum_seconds.executor": "Run",
     "Python.1_trapeziod_area.executor": "Run",
     "Python.2_bonus_score.executor": "Run",
     "Python.2_greater_number.executor": "Run",
     "Python.2_radians_to_degrees.executor": "Run",
+    "Python.2_sleepy_tom_cat.executor": "Run",
     "Python.2_triangle_area.executor": "Run",
     "Python.3_celsius_to_fahrenheit.executor": "Run",
     "Python.3_deposit_calculator.executor": "Run",
     "Python.3_even_or_odd.executor": "Run",
+    "Python.3_harvest.executor": "Run",
     "Python.3_time_plus_15_minutes.executor": "Run",
     "Python.4_password_guess.executor": "Run",
     "Python.4_toy_shop.executor": "Run",
+    "Python.4_transport_price.executor": "Run",
     "Python.4_vacation_books_list.executor": "Run",
     "Python.4_vegetable_market.executor": "Run",
     "Python.5_godzilla_vs_kong.executor": "Run",
     "Python.5_number_from_100_to_200.executor": "Run",
+    "Python.5_pets.executor": "Run",
     "Python.5_supplies_for_school.executor": "Run",
     "Python.5_training_lab.executor": "Run",
     "Python.6_fishland.executor": "Run",
+    "Python.6_flower_shop.executor": "Run",
     "Python.6_repainting.executor": "Run",
     "Python.6_speed_info.executor": "Run",
     "Python.6_world_swimming_record.executor": "Run",
     "Python.7_area_of_figures.executor": "Run",
     "Python.7_food_delivery.executor": "Run",
+    "Python.7_fuel_tank_part_1.executor": "Run",
     "Python.7_house_painting.executor": "Run",
     "Python.7_shopping.executor": "Run",
     "Python.8_basketball_equipment.executor": "Run",
     "Python.8_circle_area_and_perimeter.executor": "Run",
+    "Python.8_fuel_tank_part_2.executor": "Run",
     "Python.8_lunch_break.executor": "Run",
     "Python.9_fish_tank.executor": "Run",
     "Python.9_weather_forecast_pt_1.executor": "Run",
@@ -109,6 +127,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -186,7 +205,15 @@
       <option name="project" value="LOCAL" />
       <updated>1769710810017</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Conditional_Statements_Practice_[Practice]">
+      <option name="closed" value="true" />
+      <created>1770802072971</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770802072971</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +239,8 @@
     <MESSAGE value="First_Steps_In_Programming_Basics_With_Python &amp;&amp; First_Steps_In_Practice_[Practice]" />
     <MESSAGE value="Merge remote-tracking branch 'refs/remotes/origin/master'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="First_Steps_In_Programming_[More_Exercises]" />
-    <option name="LAST_COMMIT_MESSAGE" value="First_Steps_In_Programming_[More_Exercises]" />
+    <MESSAGE value="Conditional_Statements_Practice_[Practice]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditional_Statements_Practice_[Practice]" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$1_trapeziod_area.coverage" NAME="1_trapeziod_area Coverage Results" MODIFIED="1769597806291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
