@@ -4,28 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="Conditional_Statements _[More Exercises]">
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/10_invalid_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/11_fruit_shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/12_trade_commissions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/1_day_of_week.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/2_weekend_or_working_day.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/3_animal_type.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/4_personal_titles.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/5_small_shop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/6_number_in_range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/7_working_hours.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/8_cinema_ticket.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[Lab]/9_fruit_or_vegetable.py" afterDir="false" />
+    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="Conditional_Statements_Advanced_[Lab]">
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[More_Exercises]/10_multiply_by_2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[More_Exercises]/1_match_tickets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[More_Exercises]/2_bike_race.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[More_Exercises]/3_flowers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[More_Exercises]/4_car_to_go.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[More_Exercises]/5_vacation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[More_Exercises]/6_truck_driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[More_Exercises]/7_school_camp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[More_Exercises]/8_point_on_rectangle_border.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statements_Advanced_[More_Exercises]/9_numbers_from_1_to_10.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/1_pipes_in_pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/1_pipes_in_pool.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/2_sleepy_tom_cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/2_sleepy_tom_cat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/3_harvest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/3_harvest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/4_transport_price.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/4_transport_price.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/5_pets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/5_pets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/6_flower_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/6_flower_shop.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/7_fuel_tank_part_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/7_fuel_tank_part_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Conditional_Statements _[More Exercises]/8_fuel_tank_part_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/8_fuel_tank_part_2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/1_pipes_in_pool.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More_Exercises]/1_pipes_in_pool.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/2_sleepy_tom_cat.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More_Exercises]/2_sleepy_tom_cat.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/3_harvest.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More_Exercises]/3_harvest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/4_transport_price.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More_Exercises]/4_transport_price.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/5_pets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More_Exercises]/5_pets.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/6_flower_shop.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More_Exercises]/6_flower_shop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/7_fuel_tank_part_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More_Exercises]/7_fuel_tank_part_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Conditional_Statements_[More Exercises]/8_fuel_tank_part_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Conditional_Statements_[More_Exercises]/8_fuel_tank_part_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,13 +75,16 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.10_multiply_by_2.executor": "Run",
     "Python.10_weather_forecast_pt_2.executor": "Run",
     "Python.11_fruit_shop.executor": "Run",
     "Python.12_trade_commissions.executor": "Run",
     "Python.1_excellent_result.executor": "Run",
+    "Python.1_match_tickets.executor": "Run",
     "Python.1_pipes_in_pool.executor": "Run",
     "Python.1_sum_seconds.executor": "Run",
     "Python.1_trapeziod_area.executor": "Run",
+    "Python.2_bike_race.executor": "Run",
     "Python.2_bonus_score.executor": "Run",
     "Python.2_greater_number.executor": "Run",
     "Python.2_radians_to_degrees.executor": "Run",
@@ -92,8 +93,10 @@
     "Python.3_celsius_to_fahrenheit.executor": "Run",
     "Python.3_deposit_calculator.executor": "Run",
     "Python.3_even_or_odd.executor": "Run",
+    "Python.3_flowers.executor": "Run",
     "Python.3_harvest.executor": "Run",
     "Python.3_time_plus_15_minutes.executor": "Run",
+    "Python.4_car_to_go.executor": "Run",
     "Python.4_password_guess.executor": "Run",
     "Python.4_personal_titles.executor": "Run",
     "Python.4_toy_shop.executor": "Run",
@@ -105,21 +108,25 @@
     "Python.5_pets.executor": "Run",
     "Python.5_supplies_for_school.executor": "Run",
     "Python.5_training_lab.executor": "Run",
+    "Python.5_vacation.executor": "Run",
     "Python.6_fishland.executor": "Run",
     "Python.6_flower_shop.executor": "Run",
     "Python.6_repainting.executor": "Run",
     "Python.6_speed_info.executor": "Run",
+    "Python.6_truck_driver.executor": "Run",
     "Python.6_world_swimming_record.executor": "Run",
     "Python.7_area_of_figures.executor": "Run",
     "Python.7_food_delivery.executor": "Run",
     "Python.7_fuel_tank_part_1.executor": "Run",
     "Python.7_house_painting.executor": "Run",
+    "Python.7_school_camp.executor": "Run",
     "Python.7_shopping.executor": "Run",
     "Python.8_basketball_equipment.executor": "Run",
     "Python.8_circle_area_and_perimeter.executor": "Run",
     "Python.8_fuel_tank_part_2.executor": "Run",
     "Python.8_lunch_break.executor": "Run",
     "Python.9_fish_tank.executor": "Run",
+    "Python.9_numbers_from_1_to_10.executor": "Run",
     "Python.9_weather_forecast_pt_1.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -127,6 +134,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "ignore.virus.scanning.warn.message": "true",
@@ -136,6 +144,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
     "settings.editor.selected.configurable": "advanced.settings",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
@@ -149,7 +158,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
+        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
       </set>
     </attachedChunks>
   </component>
@@ -235,7 +244,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771691845662</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Conditional_Statements_Advanced_[Lab]">
+      <option name="closed" value="true" />
+      <created>1786455806688</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1786455806688</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +280,8 @@
     <MESSAGE value="First_Steps_In_Programming_[More_Exercises]" />
     <MESSAGE value="Conditional_Statements_Practice_[Practice]" />
     <MESSAGE value="Conditional_Statements _[More Exercises]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Conditional_Statements _[More Exercises]" />
+    <MESSAGE value="Conditional_Statements_Advanced_[Lab]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Conditional_Statements_Advanced_[Lab]" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$1_trapeziod_area.coverage" NAME="1_trapeziod_area Coverage Results" MODIFIED="1769597806291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
