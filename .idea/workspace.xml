@@ -4,18 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="For_Loop_[Lab]">
-      <change afterPath="$PROJECT_DIR$/For_Loop_[More Exercises]/10_clock_part_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Loop_[More Exercises]/11_odd_even_position.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Loop_[More Exercises]/1_back_to_the_past.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Loop_[More Exercises]/2_hospital.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Loop_[More Exercises]/3_logistics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Loop_[More Exercises]/4_grades.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Loop_[More Exercises]/5_game_of_intervals.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Loop_[More Exercises]/6_bills.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Loop_[More Exercises]/7_football_league.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Loop_[More Exercises]/8_equal_pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/For_Loop_[More Exercises]/9_clock_part_1.py" afterDir="false" />
+    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="For_Loop_[More Exercises]">
+      <change afterPath="$PROJECT_DIR$/For_Loop_[Exercise]/1_numbers_ending_in_7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Loop_[Exercise]/2_half_sum_element.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Loop_[Exercise]/3_histogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Loop_[Exercise]/4_clever_lily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Loop_[Exercise]/5_salary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Loop_[Exercise]/6_oscars.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Loop_[Exercise]/7_trekking_mania.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/For_Loop_[Exercise]/8_tennis_ranklist.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,6 +76,7 @@
     "Python.1_cinema.executor": "Run",
     "Python.1_excellent_result.executor": "Run",
     "Python.1_match_tickets.executor": "Run",
+    "Python.1_numbers_ending_in_7.executor": "Run",
     "Python.1_numbers_from_1_to_100.executor": "Run",
     "Python.1_pipes_in_pool.executor": "Run",
     "Python.1_sum_seconds.executor": "Run",
@@ -86,6 +84,7 @@
     "Python.2_bike_race.executor": "Run",
     "Python.2_bonus_score.executor": "Run",
     "Python.2_greater_number.executor": "Run",
+    "Python.2_half_sum_element.executor": "Run",
     "Python.2_hospital.executor": "Run",
     "Python.2_numbers_1_to_n_with_step_3.executor": "Run",
     "Python.2_radians_to_degrees.executor": "Run",
@@ -97,9 +96,11 @@
     "Python.3_even_powers_of_2.executor": "Run",
     "Python.3_flowers.executor": "Run",
     "Python.3_harvest.executor": "Run",
+    "Python.3_histogram.executor": "Run",
     "Python.3_logistics.executor": "Run",
     "Python.3_time_plus_15_minutes.executor": "Run",
     "Python.4_car_to_go.executor": "Run",
+    "Python.4_clever_lily.executor": "Debug",
     "Python.4_grades.executor": "Run",
     "Python.4_numbers_n_to_1.executor": "Run",
     "Python.4_password_guess.executor": "Run",
@@ -113,6 +114,7 @@
     "Python.5_godzilla_vs_kong.executor": "Run",
     "Python.5_number_from_100_to_200.executor": "Run",
     "Python.5_pets.executor": "Run",
+    "Python.5_salary.executor": "Run",
     "Python.5_supplies_for_school.executor": "Run",
     "Python.5_training_lab.executor": "Run",
     "Python.5_vacation.executor": "Run",
@@ -120,6 +122,7 @@
     "Python.6_fishland.executor": "Run",
     "Python.6_flower_shop.executor": "Run",
     "Python.6_operations_between_numbers.executor": "Run",
+    "Python.6_oscars.executor": "Run",
     "Python.6_repainting.executor": "Run",
     "Python.6_speed_info.executor": "Run",
     "Python.6_truck_driver.executor": "Run",
@@ -133,6 +136,7 @@
     "Python.7_house_painting.executor": "Run",
     "Python.7_school_camp.executor": "Run",
     "Python.7_shopping.executor": "Run",
+    "Python.7_trekking_mania.executor": "Run",
     "Python.8_basketball_equipment.executor": "Run",
     "Python.8_circle_area_and_perimeter.executor": "Run",
     "Python.8_equal_pairs.executor": "Run",
@@ -140,6 +144,7 @@
     "Python.8_lunch_break.executor": "Run",
     "Python.8_number_sequence.executor": "Run",
     "Python.8_on_time_for_the_exam.executor": "Run",
+    "Python.8_tennis_ranklist.executor": "Run",
     "Python.9_clock_part_1.executor": "Run",
     "Python.9_fish_tank.executor": "Run",
     "Python.9_left_and_right_sum.executor": "Run",
@@ -296,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1792849899381</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="For_Loop_[More Exercises]">
+      <option name="closed" value="true" />
+      <created>1792955053073</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1792955053073</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,7 +346,8 @@
     <MESSAGE value="Conditional_Statements_Advanced_[More_Exercises]" />
     <MESSAGE value="Conditional_Statements_Advanced_[Exercise]" />
     <MESSAGE value="For_Loop_[Lab]" />
-    <option name="LAST_COMMIT_MESSAGE" value="For_Loop_[Lab]" />
+    <MESSAGE value="For_Loop_[More Exercises]" />
+    <option name="LAST_COMMIT_MESSAGE" value="For_Loop_[More Exercises]" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$1_trapeziod_area.coverage" NAME="1_trapeziod_area Coverage Results" MODIFIED="1769597806291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
