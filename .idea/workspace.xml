@@ -4,15 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="For_Loop_[Exercise]">
-      <change afterPath="$PROJECT_DIR$/While_Loop_[Lab]/1_read_text.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_[Lab]/2_password.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_[Lab]/3_sum_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_[Lab]/4_sequence_2k_plus_1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_[Lab]/5_account_balance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_[Lab]/6_max_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_[Lab]/7_min_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/While_Loop_[Lab]/8_graduation.py" afterDir="false" />
+    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="While_Loop_[Lab]">
+      <change afterPath="$PROJECT_DIR$/While_Loop_[More_Exercises]/1_dishwasher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While_Loop_[More_Exercises]/2_report_system.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While_Loop_[More_Exercises]/3_stream_of_letters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While_Loop_[More_Exercises]/4_numbers_divided_by_3_without_reminder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/While_Loop_[More_Exercises]/5_average_number.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +71,7 @@
     "Python.12_trade_commissions.executor": "Run",
     "Python.1_back_to_the_past.executor": "Run",
     "Python.1_cinema.executor": "Run",
+    "Python.1_dishwasher.executor": "Run",
     "Python.1_excellent_result.executor": "Run",
     "Python.1_match_tickets.executor": "Run",
     "Python.1_numbers_ending_in_7.executor": "Run",
@@ -90,6 +88,7 @@
     "Python.2_numbers_1_to_n_with_step_3.executor": "Run",
     "Python.2_password.executor": "Run",
     "Python.2_radians_to_degrees.executor": "Run",
+    "Python.2_report_system.executor": "Run",
     "Python.2_sleepy_tom_cat.executor": "Run",
     "Python.2_triangle_area.executor": "Run",
     "Python.3_celsius_to_fahrenheit.executor": "Run",
@@ -100,11 +99,13 @@
     "Python.3_harvest.executor": "Run",
     "Python.3_histogram.executor": "Run",
     "Python.3_logistics.executor": "Run",
+    "Python.3_stream_of_letters.executor": "Run",
     "Python.3_sum_numbers.executor": "Run",
     "Python.3_time_plus_15_minutes.executor": "Run",
     "Python.4_car_to_go.executor": "Run",
     "Python.4_clever_lily.executor": "Debug",
     "Python.4_grades.executor": "Run",
+    "Python.4_numbers_divided_by_3_without_reminder.executor": "Run",
     "Python.4_numbers_n_to_1.executor": "Run",
     "Python.4_password_guess.executor": "Run",
     "Python.4_personal_titles.executor": "Run",
@@ -114,6 +115,7 @@
     "Python.4_vacation_books_list.executor": "Run",
     "Python.4_vegetable_market.executor": "Run",
     "Python.5_account_balance.executor": "Run",
+    "Python.5_average_number.executor": "Run",
     "Python.5_character_sequence.executor": "Run",
     "Python.5_game_of_intervals.executor": "Run",
     "Python.5_godzilla_vs_kong.executor": "Run",
@@ -325,7 +327,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793272992158</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="While_Loop_[Lab]">
+      <option name="closed" value="true" />
+      <created>1793358306644</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1793358306644</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -364,7 +374,8 @@
     <MESSAGE value="For_Loop_[Lab]" />
     <MESSAGE value="For_Loop_[More Exercises]" />
     <MESSAGE value="For_Loop_[Exercise]" />
-    <option name="LAST_COMMIT_MESSAGE" value="For_Loop_[Exercise]" />
+    <MESSAGE value="While_Loop_[Lab]" />
+    <option name="LAST_COMMIT_MESSAGE" value="While_Loop_[Lab]" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$1_trapeziod_area.coverage" NAME="1_trapeziod_area Coverage Results" MODIFIED="1769597806291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
