@@ -4,13 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="Nested_Loops_[Lab]">
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[Exercise]/1_number_pyramid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[Exercise]/2_equal_sums_even_odd_position.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[Exercise]/3_sum_prime_non_prime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[Exercise]/4_train_the_trainers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[Exercise]/5_special_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[Exercise]/6_cinema_tickets.py" afterDir="false" />
+    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="Nested_Loops_[Exercise]">
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/10_profit.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/11_happy_cat_parking.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/12_the_song_of_the_wheels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/13_prime_pairs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/14_password_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/1_unique_pin_codes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/2_letters_combinations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/3_lucky_numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/4_car_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/5_challenge_the_wedding.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/6_wedding_seats.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/7_safe_passwords_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/8_secret_door_s_lock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/9_sum_of_two_numbers.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +57,65 @@
     <commands />
     <urls />
   </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000000850509034" />
+      <entry key="S2" value="1.0218341613322375" />
+      <entry key="S5" value="1.3211918929837831" />
+      <entry key="S10" value="1.9526263062113163" />
+      <entry key="S30" value="3.9846319372185808" />
+      <entry key="S60" value="5.742820965242351" />
+      <entry key="M2" value="8.63723507273744" />
+      <entry key="M5" value="18.749380833106382" />
+      <entry key="M10" value="36.269533646690505" />
+      <entry key="M15" value="50.70684841712901" />
+      <entry key="M30" value="81.06921357200328" />
+      <entry key="H1" value="127.57624802239293" />
+      <entry key="H2" value="202.50218910057922" />
+      <entry key="H4" value="289.00332531466915" />
+      <entry key="D1" value="422.9609361681986" />
+      <entry key="W1" value="455.2691638998805" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="2.0926794945107063E-162" />
+      <entry key="S5" value="2.129516882896484E-65" />
+      <entry key="S10" value="4.614668875332753E-33" />
+      <entry key="S30" value="1.6648694388309154E-11" />
+      <entry key="S60" value="4.080281165349901E-6" />
+      <entry key="M2" value="0.0020199705854321293" />
+      <entry key="M5" value="0.08360474053439793" />
+      <entry key="M10" value="0.29830123330940206" />
+      <entry key="M15" value="0.5121392234820815" />
+      <entry key="M30" value="1.3011193397077352" />
+      <entry key="H1" value="2.9000649787342687" />
+      <entry key="H2" value="5.3255026633976605" />
+      <entry key="H4" value="8.250977220067828" />
+      <entry key="D1" value="13.397444753057481" />
+      <entry key="W1" value="14.754702522560699" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.002167127875132509" />
+      <entry key="MS500" value="0.29320873822147026" />
+      <entry key="S2" value="0.745077055628052" />
+      <entry key="S5" value="1.1235305016731947" />
+      <entry key="S10" value="1.7830593214665613" />
+      <entry key="S30" value="3.87878858321176" />
+      <entry key="S60" value="5.668965947394321" />
+      <entry key="M2" value="8.582547997254567" />
+      <entry key="M5" value="18.77758257828328" />
+      <entry key="M10" value="36.50978692169086" />
+      <entry key="M15" value="51.16452915499268" />
+      <entry key="M30" value="82.3281962363638" />
+      <entry key="H1" value="130.44500963088504" />
+      <entry key="H2" value="207.80381945857016" />
+      <entry key="H4" value="297.2374619652743" />
+      <entry key="D1" value="436.3542554099948" />
+      <entry key="W1" value="470.023230419122" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -66,10 +133,15 @@
     "Python.10_clock_part_2.executor": "Run",
     "Python.10_multiply_by_2.executor": "Run",
     "Python.10_odd_even_sum.executor": "Run",
+    "Python.10_profit.executor": "Run",
     "Python.10_weather_forecast_pt_2.executor": "Run",
     "Python.11_fruit_shop.executor": "Run",
+    "Python.11_happy_cat_parking.executor": "Run",
     "Python.11_odd_even_position.executor": "Run",
+    "Python.12_the_song_of_the_wheels.executor": "Run",
     "Python.12_trade_commissions.executor": "Run",
+    "Python.13_prime_pairs.executor": "Run",
+    "Python.14_password_generator.executor": "Run",
     "Python.1_back_to_the_past.executor": "Run",
     "Python.1_cinema.executor": "Run",
     "Python.1_clock.executor": "Run",
@@ -84,12 +156,14 @@
     "Python.1_read_text.executor": "Run",
     "Python.1_sum_seconds.executor": "Run",
     "Python.1_trapeziod_area.executor": "Run",
+    "Python.1_unique_pin_codes.executor": "Run",
     "Python.2_bike_race.executor": "Run",
     "Python.2_bonus_score.executor": "Run",
     "Python.2_exam_preparation.executor": "Run",
     "Python.2_greater_number.executor": "Run",
     "Python.2_half_sum_element.executor": "Run",
     "Python.2_hospital.executor": "Run",
+    "Python.2_letters_combinations.executor": "Run",
     "Python.2_multiplication_table.executor": "Run",
     "Python.2_numbers_1_to_n_with_step_3.executor": "Run",
     "Python.2_password.executor": "Run",
@@ -106,11 +180,13 @@
     "Python.3_harvest.executor": "Run",
     "Python.3_histogram.executor": "Run",
     "Python.3_logistics.executor": "Run",
+    "Python.3_lucky_numbers.executor": "Run",
     "Python.3_stream_of_letters.executor": "Run",
     "Python.3_sum_numbers.executor": "Run",
     "Python.3_sum_prime_non_prime.executor": "Run",
     "Python.3_time_plus_15_minutes.executor": "Run",
     "Python.3_vacation.executor": "Run",
+    "Python.4_car_number.executor": "Run",
     "Python.4_car_to_go.executor": "Run",
     "Python.4_clever_lily.executor": "Debug",
     "Python.4_grades.executor": "Run",
@@ -128,6 +204,7 @@
     "Python.4_walking.executor": "Run",
     "Python.5_account_balance.executor": "Run",
     "Python.5_average_number.executor": "Run",
+    "Python.5_challenge_the_wedding.executor": "Run",
     "Python.5_character_sequence.executor": "Run",
     "Python.5_coins.executor": "Run",
     "Python.5_game_of_intervals.executor": "Run",
@@ -153,6 +230,7 @@
     "Python.6_speed_info.executor": "Run",
     "Python.6_truck_driver.executor": "Run",
     "Python.6_vowels_sum.executor": "Run",
+    "Python.6_wedding_seats.executor": "Run",
     "Python.6_world_swimming_record.executor": "Run",
     "Python.7_area_of_figures.executor": "Run",
     "Python.7_food_delivery.executor": "Run",
@@ -162,6 +240,7 @@
     "Python.7_house_painting.executor": "Run",
     "Python.7_min_number.executor": "Run",
     "Python.7_moving.executor": "Run",
+    "Python.7_safe_passwords_generator.executor": "Run",
     "Python.7_school_camp.executor": "Run",
     "Python.7_shopping.executor": "Run",
     "Python.7_trekking_mania.executor": "Run",
@@ -173,12 +252,14 @@
     "Python.8_lunch_break.executor": "Run",
     "Python.8_number_sequence.executor": "Run",
     "Python.8_on_time_for_the_exam.executor": "Run",
+    "Python.8_secret_door_s_lock.executor": "Run",
     "Python.8_tennis_ranklist.executor": "Run",
     "Python.9_clock_part_1.executor": "Run",
     "Python.9_fish_tank.executor": "Run",
     "Python.9_left_and_right_sum.executor": "Run",
     "Python.9_numbers_from_1_to_10.executor": "Run",
     "Python.9_ski_trip.executor": "Run",
+    "Python.9_sum_of_two_numbers.executor": "Run",
     "Python.9_weather_forecast_pt_1.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -212,7 +293,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-73a66231627c-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.10968.92" />
+        <option value="bundled-python-sdk-ebb3072d7bdf-5bd6d13a2a75-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-262.11879.98" />
       </set>
     </attachedChunks>
   </component>
@@ -378,7 +459,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793455515458</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Nested_Loops_[Exercise]">
+      <option name="closed" value="true" />
+      <created>1793476850393</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1793476850393</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -421,7 +510,8 @@
     <MESSAGE value="While_Loop_[More_Exercises]" />
     <MESSAGE value="While_Loop_[Exercise]" />
     <MESSAGE value="Nested_Loops_[Lab]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nested_Loops_[Lab]" />
+    <MESSAGE value="Nested_Loops_[Exercise]" />
+    <option name="LAST_COMMIT_MESSAGE" value="Nested_Loops_[Exercise]" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$1_trapeziod_area.coverage" NAME="1_trapeziod_area Coverage Results" MODIFIED="1769597806291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
