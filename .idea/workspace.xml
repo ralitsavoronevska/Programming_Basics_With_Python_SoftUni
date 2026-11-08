@@ -4,21 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="Nested_Loops_[Exercise]">
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/10_profit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/11_happy_cat_parking.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/12_the_song_of_the_wheels.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/13_prime_pairs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/14_password_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/1_unique_pin_codes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/2_letters_combinations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/3_lucky_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/4_car_number.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/5_challenge_the_wedding.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/6_wedding_seats.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/7_safe_passwords_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/8_secret_door_s_lock.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Nested_Loops_[More_Exercises]/9_sum_of_two_numbers.py" afterDir="false" />
+    <list default="true" id="18fa23e1-cffd-4485-9d8e-ce86f617e6d4" name="Changes" comment="Added the .docx files with the problems for solving for the respective Topics">
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Example_Exam_Mix/1_fruit_market.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Example_Exam_Mix/2_family_trip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Example_Exam_Mix/3_movie_destination.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Example_Exam_Mix/4_food_for_pets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Example_Exam_Mix/5_easter_eggs_battle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Example_Exam_Mix/6_barcode_generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Regular_Exam_-_31_October_and_1_November_2026/1_room_painting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Regular_Exam_-_31_October_and_1_November_2026/2_beer_and_chips.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Regular_Exam_-_31_October_and_1_November_2026/3_cat_life.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Regular_Exam_-_31_October_and_1_November_2026/4_cat_food.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Regular_Exam_-_31_October_and_1_November_2026/5_puppy_care.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Programming_Basics_Online_Regular_Exam_-_31_October_and_1_November_2026/6_gold_mine.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,60 +58,60 @@
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000000850509034" />
-      <entry key="S2" value="1.0218341613322375" />
-      <entry key="S5" value="1.3211918929837831" />
-      <entry key="S10" value="1.9526263062113163" />
-      <entry key="S30" value="3.9846319372185808" />
-      <entry key="S60" value="5.742820965242351" />
-      <entry key="M2" value="8.63723507273744" />
-      <entry key="M5" value="18.749380833106382" />
-      <entry key="M10" value="36.269533646690505" />
-      <entry key="M15" value="50.70684841712901" />
-      <entry key="M30" value="81.06921357200328" />
-      <entry key="H1" value="127.57624802239293" />
-      <entry key="H2" value="202.50218910057922" />
-      <entry key="H4" value="289.00332531466915" />
-      <entry key="D1" value="422.9609361681986" />
-      <entry key="W1" value="455.2691638998805" />
+      <entry key="MS500" value="1.0000123959162122" />
+      <entry key="S2" value="1.071069021579234" />
+      <entry key="S5" value="1.4938320379824264" />
+      <entry key="S10" value="2.0738291039628667" />
+      <entry key="S30" value="5.057604342864108" />
+      <entry key="S60" value="10.095129096778988" />
+      <entry key="M2" value="18.06702207449488" />
+      <entry key="M5" value="29.698266678987697" />
+      <entry key="M10" value="36.23836531352895" />
+      <entry key="M15" value="39.03197163338885" />
+      <entry key="M30" value="44.4595697015209" />
+      <entry key="H1" value="63.99423956245463" />
+      <entry key="H2" value="145.13216294858623" />
+      <entry key="H4" value="338.646305466899" />
+      <entry key="D1" value="929.7491674822473" />
+      <entry key="W1" value="1138.8325745086358" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
       <entry key="MS500" value="0.0" />
-      <entry key="S2" value="2.0926794945107063E-162" />
-      <entry key="S5" value="2.129516882896484E-65" />
-      <entry key="S10" value="4.614668875332753E-33" />
-      <entry key="S30" value="1.6648694388309154E-11" />
-      <entry key="S60" value="4.080281165349901E-6" />
-      <entry key="M2" value="0.0020199705854321293" />
-      <entry key="M5" value="0.08360474053439793" />
-      <entry key="M10" value="0.29830123330940206" />
-      <entry key="M15" value="0.5121392234820815" />
-      <entry key="M30" value="1.3011193397077352" />
-      <entry key="H1" value="2.9000649787342687" />
-      <entry key="H2" value="5.3255026633976605" />
-      <entry key="H4" value="8.250977220067828" />
-      <entry key="D1" value="13.397444753057481" />
-      <entry key="W1" value="14.754702522560699" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="5.445331857159706E-190" />
+      <entry key="S30" value="1.1962163180705944E-63" />
+      <entry key="S60" value="5.272647412390085E-32" />
+      <entry key="M2" value="4.0567584069066505E-16" />
+      <entry key="M5" value="1.5421288560024592E-6" />
+      <entry key="M10" value="0.002473231176343404" />
+      <entry key="M15" value="0.02952289580993178" />
+      <entry key="M30" value="0.4010816051316274" />
+      <entry key="H1" value="2.041708975206103" />
+      <entry key="H2" value="7.268267113730766" />
+      <entry key="H4" value="18.236089392929255" />
+      <entry key="D1" value="48.66724319322139" />
+      <entry key="W1" value="59.02250969316266" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.002167127875132509" />
-      <entry key="MS500" value="0.29320873822147026" />
-      <entry key="S2" value="0.745077055628052" />
-      <entry key="S5" value="1.1235305016731947" />
-      <entry key="S10" value="1.7830593214665613" />
-      <entry key="S30" value="3.87878858321176" />
-      <entry key="S60" value="5.668965947394321" />
-      <entry key="M2" value="8.582547997254567" />
-      <entry key="M5" value="18.77758257828328" />
-      <entry key="M10" value="36.50978692169086" />
-      <entry key="M15" value="51.16452915499268" />
-      <entry key="M30" value="82.3281962363638" />
-      <entry key="H1" value="130.44500963088504" />
-      <entry key="H2" value="207.80381945857016" />
-      <entry key="H4" value="297.2374619652743" />
-      <entry key="D1" value="436.3542554099948" />
-      <entry key="W1" value="470.023230419122" />
+      <entry key="MS100" value="2.2121125022009738E-8" />
+      <entry key="MS500" value="0.029447338185019052" />
+      <entry key="S2" value="0.4696493377336969" />
+      <entry key="S5" value="1.1369173747126964" />
+      <entry key="S10" value="1.8416882965958001" />
+      <entry key="S30" value="4.929388429098934" />
+      <entry key="S60" value="9.990317710098203" />
+      <entry key="M2" value="17.977586856932785" />
+      <entry key="M5" value="29.637887176421195" />
+      <entry key="M10" value="36.20320666257542" />
+      <entry key="M15" value="39.03412402885266" />
+      <entry key="M30" value="44.84408724817369" />
+      <entry key="H1" value="66.02273447276353" />
+      <entry key="H2" value="152.38536665757678" />
+      <entry key="H4" value="356.8651389205218" />
+      <entry key="D1" value="978.4084393523434" />
+      <entry key="W1" value="1197.8536814351487" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -154,9 +152,11 @@
     "Python.1_old_books.executor": "Run",
     "Python.1_pipes_in_pool.executor": "Run",
     "Python.1_read_text.executor": "Run",
+    "Python.1_room_painting.executor": "Run",
     "Python.1_sum_seconds.executor": "Run",
     "Python.1_trapeziod_area.executor": "Run",
     "Python.1_unique_pin_codes.executor": "Run",
+    "Python.2_beer_and_chips.executor": "Run",
     "Python.2_bike_race.executor": "Run",
     "Python.2_bonus_score.executor": "Run",
     "Python.2_exam_preparation.executor": "Run",
@@ -167,10 +167,12 @@
     "Python.2_multiplication_table.executor": "Run",
     "Python.2_numbers_1_to_n_with_step_3.executor": "Run",
     "Python.2_password.executor": "Run",
+    "Python.2_pool_day.executor": "Run",
     "Python.2_radians_to_degrees.executor": "Run",
     "Python.2_report_system.executor": "Run",
     "Python.2_sleepy_tom_cat.executor": "Run",
     "Python.2_triangle_area.executor": "Run",
+    "Python.3_cat_life.executor": "Run",
     "Python.3_celsius_to_fahrenheit.executor": "Run",
     "Python.3_combinations.executor": "Run",
     "Python.3_deposit_calculator.executor": "Run",
@@ -181,6 +183,7 @@
     "Python.3_histogram.executor": "Run",
     "Python.3_logistics.executor": "Run",
     "Python.3_lucky_numbers.executor": "Run",
+    "Python.3_series_calculator.executor": "Run",
     "Python.3_stream_of_letters.executor": "Run",
     "Python.3_sum_numbers.executor": "Run",
     "Python.3_sum_prime_non_prime.executor": "Run",
@@ -188,7 +191,9 @@
     "Python.3_vacation.executor": "Run",
     "Python.4_car_number.executor": "Run",
     "Python.4_car_to_go.executor": "Run",
+    "Python.4_cat_food.executor": "Run",
     "Python.4_clever_lily.executor": "Debug",
+    "Python.4_food_for_pets.executor": "Run",
     "Python.4_grades.executor": "Run",
     "Python.4_numbers_divided_by_3_without_reminder.executor": "Run",
     "Python.4_numbers_n_to_1.executor": "Run",
@@ -207,22 +212,27 @@
     "Python.5_challenge_the_wedding.executor": "Run",
     "Python.5_character_sequence.executor": "Run",
     "Python.5_coins.executor": "Run",
+    "Python.5_easter_eggs_battle.executor": "Run",
     "Python.5_game_of_intervals.executor": "Run",
     "Python.5_godzilla_vs_kong.executor": "Run",
     "Python.5_number_from_100_to_200.executor": "Run",
     "Python.5_pets.executor": "Run",
+    "Python.5_puppy_care.executor": "Run",
     "Python.5_salary.executor": "Run",
     "Python.5_special_numbers.executor": "Run",
     "Python.5_supplies_for_school.executor": "Run",
     "Python.5_training_lab.executor": "Run",
     "Python.5_traveling.executor": "Run",
     "Python.5_vacation.executor": "Run",
+    "Python.6_.executor": "Run",
+    "Python.6_barcode_generator.executor": "Run",
     "Python.6_bills.executor": "Run",
     "Python.6_building.executor": "Run",
     "Python.6_cake.executor": "Run",
     "Python.6_cinema_tickets.executor": "Run",
     "Python.6_fishland.executor": "Run",
     "Python.6_flower_shop.executor": "Run",
+    "Python.6_gold_mine.executor": "Run",
     "Python.6_max_number.executor": "Run",
     "Python.6_operations_between_numbers.executor": "Run",
     "Python.6_oscars.executor": "Run",
@@ -289,6 +299,37 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Rali _the One\PycharmProjects\Programming_Basics_With_Python_SoftUni\" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="4_cat_food" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Programming_Basics_With_Python_SoftUni" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Programming_Basics_Online_Regular_Exam_-_31_October_and_1_November_2026" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="DEBUG_JUST_MY_CODE" value="false" />
+      <option name="RUN_TOOL" value="" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Programming_Basics_Online_Regular_Exam_-_31_October_and_1_November_2026/4_cat_food.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.4_cat_food" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -467,7 +508,55 @@
       <option name="project" value="LOCAL" />
       <updated>1793476850393</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Nested_Loops_[More_Exercises]">
+      <option name="closed" value="true" />
+      <created>1793553067451</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1793553067451</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Renamed a folder from First_Steps_In_programming_Basics_With_Python to First_Steps_In_programming_[Lab] and added the .docx file with the problems for solving">
+      <option name="closed" value="true" />
+      <created>1793809292444</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1793809292444</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Renamed a folder from Conditional_Statements to Conditional_Statements_[Lab] and added the .docx file with the problems for solving">
+      <option name="closed" value="true" />
+      <created>1793809452793</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1793809452793</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Renamed a folder from Conditional_Statements_Practice_[Practice] to Conditional_Statements_[Exercise] and added the .docx file with the problems for solving">
+      <option name="closed" value="true" />
+      <created>1793809745265</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1793809745265</updated>
+    </task>
+    <task id="LOCAL-00024" summary="fix a solution to a point of giving 100/100 points">
+      <option name="closed" value="true" />
+      <created>1793809805585</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1793809805585</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Added the .docx files with the problems for solving for the respective Topics">
+      <option name="closed" value="true" />
+      <created>1793809913667</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1793809913667</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -511,7 +600,13 @@
     <MESSAGE value="While_Loop_[Exercise]" />
     <MESSAGE value="Nested_Loops_[Lab]" />
     <MESSAGE value="Nested_Loops_[Exercise]" />
-    <option name="LAST_COMMIT_MESSAGE" value="Nested_Loops_[Exercise]" />
+    <MESSAGE value="Nested_Loops_[More_Exercises]" />
+    <MESSAGE value="Renamed a folder from First_Steps_In_programming_Basics_With_Python to First_Steps_In_programming_[Lab] and added the .docx file with the problems for solving" />
+    <MESSAGE value="Renamed a folder from Conditional_Statements to Conditional_Statements_[Lab] and added the .docx file with the problems for solving" />
+    <MESSAGE value="Renamed a folder from Conditional_Statements_Practice_[Practice] to Conditional_Statements_[Exercise] and added the .docx file with the problems for solving" />
+    <MESSAGE value="fix a solution to a point of giving 100/100 points" />
+    <MESSAGE value="Added the .docx files with the problems for solving for the respective Topics" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added the .docx files with the problems for solving for the respective Topics" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Programming_Basics_With_Python_SoftUni$1_trapeziod_area.coverage" NAME="1_trapeziod_area Coverage Results" MODIFIED="1769597806291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/First_Steps_In_Programming_[More_Exercises]" />
